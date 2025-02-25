@@ -1,0 +1,672 @@
+{
+"data": {
+  "levels": [
+    {
+      "coordinates": {
+        "latitude": "-12.0432",
+        "longitude": "-77.0282"
+      },
+      "country": {
+        "code": "SW",
+        "id": "d48b5d19-e519-448a-90ae-d3412e700f47",
+        "name": {
+          "en": "Switzerland",
+          "es": "...",
+          "fr": "..."
+        },
+        "asset": {
+          "type": "image",
+          "url": "https://firebasestorage.googleapis.com/v0/b/intelligent-journal-6075f.appspot.com/o/elphie%20images%2Fclean%20swiss%20flag.jpg?alt=media&token=8a68ffb2-a0e5-4291-bf25-1d49ba9e6c54",
+          "suggestion": {
+            "en": "(EN) National Flag of Switzerland",
+            "es": "(ES) National Flag of Switzerland",
+            "fr": "(FR) National Flag of Switzerland"
+          }
+        }
+      },
+      "id": "d48b5d19-e519-448a-90ae-d3412e712f47",
+      "intro": {
+        "en": "Hello, little explorer! Today, we're going to discover the amazing city of Lima, Peru. It's a city full of ancient history, delicious food, and vibrant culture. Let's have some fun and learn more about this exciting place!",
+        "es": "\\u00a1Hola, peque\\u00f1o explorador! Hoy vamos a descubrir la incre\\u00edble ciudad de Lima, Per\\u00fa. Es una ciudad llena de historia antigua, comida deliciosa y cultura vibrante. \\u00a1Divirt\\u00e1monos y aprendamos m\\u00e1s sobre este lugar emocionante!",
+        "fr": "Bonjour, petit explorateur ! Aujourd'hui, nous allons d\\u00e9couvrir la ville incroyable de Lima, au P\\u00e9rou. C'est une ville pleine d'histoire ancienne, de nourriture d\\u00e9licieuse et de culture vibrante. Amusons-nous et apprenons-en plus sur cet endroit passionnant !"
+      },
+      "name": {
+        "es": "...",
+        "en": "Bern",
+        "fr": "..."
+      },
+      "recap": {
+        "asset": {
+          "type": "image",
+          "url": "https://firebasestorage.googleapis.com/v0/b/intelligent-journal-6075f.appspot.com/o/elphie%20images%2Fwatch%20tower.jpg?alt=media&token=03f9b1d7-f1ce-4deb-b9e9-e25a1b6fa321",
+          "suggestion": {
+            "en": "Switzerland is a country famous for its mountains, delicious chocolate, and special music! Switzerland has beautiful lakes and is known for its yummy cheese fondue. People in Switzerland speak different languages like Swiss-German, French, and Italian! You might hear people saying 'Grüezi' to say hello in Swiss-German. In Switzerland, they also love outdoor fun, like swimming in rivers. amazing place!",
+            "es": "The city of Bern",
+            "fr": "The city of Bern"
+          }
+        },
+        "description": {
+          "en": "Switzerland is a country famous for its mountains, delicious chocolate, and special music! People in Switzerland speak different languages like Swiss-German, French, and Italian!",
+          "es": "Here is a recap of city of Bern in Spanish!",
+          "fr": "Here is a recap of city of Bern in French!"
+        }
+      },
+      "questions": [
+        {
+          "matchAnswers": {
+            "en": [
+              [
+                "Grüezi",
+                "Hello"
+              ],
+              [
+                "Danke",
+                "Thank you"
+              ],
+              [
+                "Tschüss",
+                "Goodbye"
+              ]
+            ],
+            "es": null,
+            "fr": null
+          },
+          "matchCorrectAnswer": {
+            "en": [
+              [
+                "Grüezi",
+                "Hello"
+              ],
+              [
+                "Danke",
+                "Thank you"
+              ],
+              [
+                "Tschüss",
+                "Goodbye"
+              ]
+            ],
+            "es": null,
+            "fr": null
+          },
+          "asset": {
+            "suggestion": {
+              "en": "Images of water, bread, and milk.",
+              "es": "es translation here...",
+              "fr": "fr translation here..."
+            },
+            "type": "image",
+            "url": "https://firebasestorage.googleapis.com/v0/b/intelligent-journal-6075f.appspot.com/o/elphie%20images%2Fwords.jpg?alt=media&token=251b2a4d-4a71-4511-9c09-c4b508067373"
+          },
+          "category": {
+            "id": "b880b422-0ded-40d5-a181-c3ceb4bed656",
+            "name": {
+              "en": "language",
+              "es": "language",
+              "fr": "language"
+            },
+            "value": "LANGUAGE"
+          },
+          "complexity": {
+            "ageGroup": "6-7",
+            "gradeLevel": "2"
+          },
+          "hint": {
+            "en": "These are common foods and drinks.",
+            "es": "Estos son alimentos y bebidas comunes.",
+            "fr": "Ce sont des aliments et boissons courants."
+          },
+          "id": "0185a8ac-ba55-4a0d-bfb2-ea289f1c686f",
+          "title": {
+            "en": "Match the Swiss-German word to its English meaning.",
+            "es": "Empareja las palabras en espa\\u00f1ol con sus traducciones en ingl\\u00e9s.",
+            "fr": "Associez les mots espagnols \\u00e0 leurs traductions en anglais."
+          },
+          "type": "MATCH"
+        },
+        {
+          "cryptogramAnswers": {
+            "en": "s,m,i,w,g,n,i,m",
+            "es": "l,a,c,r,a",
+            "fr": "a,r,l,a,c"
+          },
+          "cryptoGramCorrectAnswer": {
+            "en": "swimming",
+            "fr": "",
+            "es": ""
+          },
+          "asset": {
+            "suggestion": {
+              "en": "Ruins of the ancient city of Caral.",
+              "es": "es translation here...",
+              "fr": "fr translation here..."
+            },
+            "type": "image",
+            "url": "https://firebasestorage.googleapis.com/v0/b/intelligent-journal-6075f.appspot.com/o/elphie%20images%2Fplaying%20in%20river.jpg?alt=media&token=6217a4b5-7617-432a-ad75-753256297c39"
+          },
+          "category": {
+            "id": "b880b422-0ded-40d5-a181-c3ceb4bed656",
+            "name": {
+              "en": "history",
+              "es": "history",
+              "fr": "history"
+            },
+            "value": "HISTORY"
+          },
+          "complexity": {
+            "ageGroup": "6-7",
+            "gradeLevel": "2"
+          },
+          "hint": {
+            "en": "It's one of the oldest cities in the Americas.",
+            "es": "Es una de las ciudades m\\u00e1s antiguas de las Am\\u00e9ricas.",
+            "fr": "C'est l'une des plus anciennes villes des Am\\u00e9riques."
+          },
+          "id": "a4250949-1dc5-4e2c-af06-dc079a3cbb86",
+          "title": {
+            "en": "What is a geographically appropriate hobby that many children in Switzerland enjoy?",
+            "es": "",
+            "fr": "D\\u00e9codez le nom d'une ville ancienne pr\\u00e8s de Lima."
+          },
+          "type": "CRYPTOGRAM"
+        },
+        {
+          "singleChoiceCorrectAnswer": "f6384bb2-4106-4bfe-9cdd-3729c6c43fa3",
+          "singleChoiceAnswers": [
+            {
+              "id": "f6384bb2-4106-4bfe-9cdd-3729c6c43fa3",
+              "value": {
+                "en": "True",
+                "es": "Verdadero",
+                "fr": "Vrai"
+              }
+            },
+            {
+              "id": "f6384bb2-4106-4bfe-9cdd-3729c6c43fa4",
+              "value": {
+                "en": "False",
+                "es": "...",
+                "fr": "..."
+              }
+            }
+          ],
+          "asset": {
+            "suggestion": {
+              "en": "",
+              "es": "es translation here...",
+              "fr": "fr translation here..."
+            },
+            "type": "image",
+            "url": "https://firebasestorage.googleapis.com/v0/b/intelligent-journal-6075f.appspot.com/o/elphie%20images%2Friver.jpg?alt=media&token=3008bf81-bb3c-419e-bc15-e34d70134993"
+          },
+          "category": {
+            "id": "b880b422-0ded-40d5-a181-c3ceb4bed656",
+            "name": {
+              "en": "art_and_culture",
+              "es": "art_and_culture",
+              "fr": "art_and_culture"
+            },
+            "value": "ART_AND_CULTURE"
+          },
+          "complexity": {
+            "ageGroup": "6-7",
+            "gradeLevel": "2"
+          },
+          "hint": {
+            "en": "It's an ancient structure found in the city.",
+            "es": "Es una estructura antigua que se encuentra en la ciudad.",
+            "fr": "C'est une structure ancienne que l'on trouve dans la ville."
+          },
+          "id": "f6384bb2-4106-4bfe-9cdd-3729c6c43fa1",
+          "title": {
+            "en": "True or False: A big river flows through the middle of Switzerland’s capital city.",
+            "es": "Verdadero o Falso: La Huaca Pucllana es una famosa pir\\u00e1mide en Lima.",
+            "fr": "Vrai ou Faux : La Huaca Pucllana est une pyramide c\\u00e9l\\u00e8bre \\u00e0 Lima."
+          },
+          "type": "SINGLE_CHOICE"
+        },
+        {
+          "singleChoiceCorrectAnswer": "f6384bb2-4106-4bfe-9cdd-3729c6c43fa6",
+          "singleChoiceAnswers": [
+            {
+              "id": "f6384bb2-4106-4bfe-9cdd-3729c6c43fa6",
+              "value": {
+                "en": "Red and White",
+                "es": "Lima, Peru",
+                "fr": "Lima, Peru"
+              }
+            },
+            {
+              "id": "f6384bb2-4106-4bfe-9cdd-3729c6c43fa7",
+              "value": {
+                "en": "Green and Yellow",
+                "es": "Toronto, Canada",
+                "fr": "Toronto, Canada"
+              }
+            },
+            {
+              "id": "f6384bb2-4106-4bfe-9cdd-3729c6c43fa8",
+              "value": {
+                "en": "Blue and White",
+                "es": "Dubai, UAE",
+                "fr": "Dubai, UAE"
+              }
+            }
+          ],
+          "asset": {
+            "suggestion": {
+              "en": "Lima",
+              "es": "es translation here...",
+              "fr": "fr translation here..."
+            },
+            "type": "image",
+            "url": "https://firebasestorage.googleapis.com/v0/b/intelligent-journal-6075f.appspot.com/o/elphie%20images%2Fclean%20swiss%20flag.jpg?alt=media&token=8a68ffb2-a0e5-4291-bf25-1d49ba9e6c54"
+          },
+          "category": {
+            "id": "b880b422-0ded-40d5-a181-c3ceb4bed656",
+            "name": {
+              "en": "landmark_and_architecture",
+              "es": "landmark_and_architecture",
+              "fr": "landmark_and_architecture"
+            },
+            "value": "LANDMARK_AND_ARCHITECTURE"
+          },
+          "complexity": {
+            "ageGroup": "6-7",
+            "gradeLevel": "2"
+          },
+          "hint": {
+            "en": "What colors are on the flag of Switzerland?",
+            "es": "Dónde se esconde tu elfo?",
+            "fr": "Où se cache ton elfe?"
+          },
+          "id": "f6384bb2-4106-4bfe-9cdd-3729c6c43f11",
+          "title": {
+            "en": "What colors are on the flag of Switzerland?",
+            "es": "Dónde se esconde tu elfo?",
+            "fr": "Où se cache ton elfe?"
+          },
+          "type": "SINGLE_CHOICE"
+        },
+        {
+          "singleChoiceCorrectAnswer": "f6384bb2-4106-4bfe-9cdd-3729c6c43fa6",
+          "singleChoiceAnswers": [
+            {
+              "id": "f6384bb2-4106-4bfe-9cdd-3729c6c43fa6",
+              "value": {
+                "en": "Alpine folk music",
+                "es": "Lima, Peru",
+                "fr": "Lima, Peru"
+              }
+            },
+            {
+              "id": "f6384bb2-4106-4bfe-9cdd-3729c6c43fa7",
+              "value": {
+                "en": "Rock",
+                "es": "Toronto, Canada",
+                "fr": "Toronto, Canada"
+              }
+            },
+            {
+              "id": "f6384bb2-4106-4bfe-9cdd-3729c6c43fa8",
+              "value": {
+                "en": "Classical",
+                "es": "Dubai, UAE",
+                "fr": "Dubai, UAE"
+              }
+            }
+          ],
+          "asset": {
+            "suggestion": {
+              "en": "Lima",
+              "es": "es translation here...",
+              "fr": "fr translation here..."
+            },
+            "type": "image",
+            "url": "https://firebasestorage.googleapis.com/v0/b/intelligent-journal-6075f.appspot.com/o/elphie%20images%2Falpine%20band.jpg?alt=media&token=57955ebb-2ae9-443a-aa24-95ee5abc9ba7"
+          },
+          "category": {
+            "id": "b880b422-0ded-40d5-a181-c3ceb4bed656",
+            "name": {
+              "en": "landmark_and_architecture",
+              "es": "landmark_and_architecture",
+              "fr": "landmark_and_architecture"
+            },
+            "value": "LANDMARK_AND_ARCHITECTURE"
+          },
+          "complexity": {
+            "ageGroup": "6-7",
+            "gradeLevel": "2"
+          },
+          "hint": {
+            "en": "Help find the type of music that is popular in Switzerland.",
+            "es": "Dónde se esconde tu elfo?",
+            "fr": "Où se cache ton elfe?"
+          },
+          "id": "f6384bb2-4106-4bfe-9cdd-3729c6c43f11",
+          "title": {
+            "en": "Help find the type of music that is popular in Switzerland.",
+            "es": "Dónde se esconde tu elfo?",
+            "fr": "Où se cache ton elfe?"
+          },
+          "type": "SINGLE_CHOICE"
+        },
+        {
+          "multichoiceAnswers": [
+            {
+              "id": "f6384bb2-4106-4bfe-9cdd-3729c6c43fa4",
+              "value": {
+                "es": "...",
+                "en": "Cheese Fondue",
+                "fr": "..."
+              }
+            },
+            {
+              "id": "f6384bb2-4106-4bfe-9cdd-3729c6c43fa5",
+              "value": {
+                "es": "...",
+                "en": "Pizza",
+                "fr": "..."
+              }
+            },
+            {
+              "id": "f6384bb2-4106-4bfe-9cdd-3729c6c43fa6",
+              "value": {
+                "es": "...",
+                "en": "Burger",
+                "fr": "..."
+              }
+            }
+          ],
+          "multichoiceCorrectAnswer": [
+            "f6384bb2-4106-4bfe-9cdd-3729c6c43fa4"
+          ],
+          "asset": {
+            "suggestion": {
+              "en": "Colorful fountains at Parque de la Reserva.",
+              "es": "es translation here...",
+              "fr": "fr translation here..."
+            },
+            "type": "image",
+            "url": "https://firebasestorage.googleapis.com/v0/b/intelligent-journal-6075f.appspot.com/o/elphie%20images%2Ffondue.jpg?alt=media&token=902c0d1d-a1af-4d4a-9c92-d094a26102fa"
+          },
+          "category": {
+            "id": "b880b422-0ded-40d5-a181-c3ceb4bed656",
+            "name": {
+              "en": "landmark_and_architecture",
+              "es": "landmark_and_architecture",
+              "fr": "landmark_and_architecture"
+            },
+            "value": "LANDMARK_AND_ARCHITECTURE"
+          },
+          "complexity": {
+            "ageGroup": "6-7",
+            "gradeLevel": "2"
+          },
+          "hint": {
+            "en": "This park is famous for its Magic Water Circuit.",
+            "es": "Este parque es famoso por su Circuito M\\u00e1gico del Agua.",
+            "fr": "Ce parc est c\\u00e9l\\u00e8bre pour son Circuit Magique de l'Eau."
+          },
+          "id": "5091bfef-b0ea-403e-a00a-dffd71738a5e",
+          "title": {
+            "en": "Which of these is a famous Swiss food?",
+            "es": "\\u00bfQu\\u00e9 monumento es conocido por sus hermosas fuentes en Lima?",
+            "fr": "Quel monument est connu pour ses belles fontaines \\u00e0 Lima ?"
+          },
+          "type": "MULTI_CHOICE"
+        },
+        {
+          "wordSearchAnswers": {
+            "es": [
+              "..."
+            ],
+            "fr": [
+              "..."
+            ],
+            "en": [
+              "S,S,I,W,S",
+              "P,V,P,W,C",
+              "M,Q,N,V,V",
+              "T,L,C,N,D",
+              "V,K,T,W,W"
+            ]
+          },
+          "wordSearchCorrectAnswer": {
+            "en": "swiss",
+            "es": "swiss",
+            "fr": "swiss"
+          },
+          "meta": {
+            "en": {
+              "coordinates": {
+                "x": 0,
+                "y": 4
+              },
+              "direction": "LEFT",
+              "length": 5
+            },
+            "es": {
+              "coordinates": {
+                "y": 2,
+                "x": 4
+              },
+              "direction": "UP",
+              "length": 5
+            },
+            "fr": {
+              "coordinates": {
+                "x": 1,
+                "y": 0
+              },
+              "direction": "RIGHT",
+              "length": 5
+            }
+          },
+          "asset": {
+            "suggestion": {
+              "en": "A colorful combi bus on a busy street.",
+              "es": "es translation here...",
+              "fr": "fr translation here..."
+            },
+            "type": "image",
+            "url": "https://firebasestorage.googleapis.com/v0/b/intelligent-journal-6075f.appspot.com/o/elphie%20images%2Fchocolate.jpg?alt=media&token=04a67623-f4ca-4c53-ad7f-5ee44e81affd"
+          },
+          "category": {
+            "id": "b880b422-0ded-40d5-a181-c3ceb4bed656",
+            "name": {
+              "en": "transportation",
+              "es": "transportation",
+              "fr": "transportation"
+            },
+            "value": "TRANSPORTATION"
+          },
+          "complexity": {
+            "ageGroup": "6-7",
+            "gradeLevel": "2"
+          },
+          "hint": {
+            "en": "These buses are often colorful and travel short distances.",
+            "es": "Estos autobuses suelen ser coloridos y recorren distancias cortas.",
+            "fr": "Ces bus sont souvent color\\u00e9s et parcourent de courtes distances."
+          },
+          "id": "b880b422-0ded-40d5-a181-c3ceb4bed656",
+          "title": {
+            "en": "This type of chocolate gets it's name from the alps in the country it is made in.",
+            "es": "Encuentra la palabra en espa\\u00f1ol para un peque\\u00f1o autob\\u00fas usado en Per\\u00fa.",
+            "fr": "Trouvez le mot espagnol pour un petit bus utilis\\u00e9 au P\\u00e9rou."
+          },
+          "type": "WORD_SEARCH"
+        },
+        {
+          "singleChoiceCorrectAnswer": "f6384bb2-4106-4bfe-9cdd-3729c6c43fa6",
+          "singleChoiceAnswers": [
+            {
+              "id": "f6384bb2-4106-4bfe-9cdd-3729c6c43fa6",
+              "value": {
+                "en": "Teddy bear",
+                "es": "Lima, Peru",
+                "fr": "Lima, Peru"
+              }
+            },
+            {
+              "id": "f6384bb2-4106-4bfe-9cdd-3729c6c43fa7",
+              "value": {
+                "en": "Doll",
+                "es": "Toronto, Canada",
+                "fr": "Toronto, Canada"
+              }
+            },
+            {
+              "id": "f6384bb2-4106-4bfe-9cdd-3729c6c43fa8",
+              "value": {
+                "en": "Puzzle",
+                "es": "Dubai, UAE",
+                "fr": "Dubai, UAE"
+              }
+            }
+          ],
+          "asset": {
+            "suggestion": {
+              "en": "Lima",
+              "es": "es translation here...",
+              "fr": "fr translation here..."
+            },
+            "type": "image",
+            "url": "https://firebasestorage.googleapis.com/v0/b/intelligent-journal-6075f.appspot.com/o/elphie%20images%2Fteddy%20bear.jpg?alt=media&token=80e0964c-7c18-4b6d-9ee6-fce1c88c1328"
+          },
+          "category": {
+            "id": "b880b422-0ded-40d5-a181-c3ceb4bed656",
+            "name": {
+              "en": "landmark_and_architecture",
+              "es": "landmark_and_architecture",
+              "fr": "landmark_and_architecture"
+            },
+            "value": "LANDMARK_AND_ARCHITECTURE"
+          },
+          "complexity": {
+            "ageGroup": "6-7",
+            "gradeLevel": "2"
+          },
+          "hint": {
+            "en": "Which toy is popular in Switzerland?",
+            "es": "Dónde se esconde tu elfo?",
+            "fr": "Où se cache ton elfe?"
+          },
+          "id": "f6384bb2-4106-4bfe-9cdd-3729c6c43f11",
+          "title": {
+            "en": "Which toy is popular in Switzerland?",
+            "es": "Dónde se esconde tu elfo?",
+            "fr": "Où se cache ton elfe?"
+          },
+          "type": "SINGLE_CHOICE"
+        },
+        {
+          "fillInTheBlanksAnswer": {
+            "en": "Switzerland",
+            "es": "Switzerland",
+            "fr": "Switzerland"
+          },
+          "asset": {
+            "suggestion": {
+              "en": "A wooden flute with intricate designs.",
+              "es": "es translation here...",
+              "fr": "fr translation here..."
+            },
+            "type": "image",
+            "url": "https://firebasestorage.googleapis.com/v0/b/intelligent-journal-6075f.appspot.com/o/elphie%20images%2Fwatch%20tower.jpg?alt=media&token=03f9b1d7-f1ce-4deb-b9e9-e25a1b6fa321"
+          },
+          "category": {
+            "id": "b880b422-0ded-40d5-a181-c3ceb4bed656",
+            "name": {
+              "en": "music_and_entertainment",
+              "es": "music_and_entertainment",
+              "fr": "music_and_entertainment"
+            },
+            "value": "MUSIC_AND_ENTERTAINMENT"
+          },
+          "complexity": {
+            "ageGroup": "6-7",
+            "gradeLevel": "2"
+          },
+          "hint": {
+            "en": "",
+            "es": "",
+            "fr": ""
+          },
+          "id": "d48b5d19-e519-448a-90ae-d3412e712f66",
+          "title": {
+            "en": "The tall clock tower is in ____.",
+            "es": "",
+            "fr": ""
+          },
+          "type": "FILL_IN_THE_BLANKS"
+        },
+        {
+          "singleChoiceCorrectAnswer": "f6384bb2-4106-4bfe-9cdd-3729c6c43fa6",
+          "singleChoiceAnswers": [
+            {
+              "id": "f6384bb2-4106-4bfe-9cdd-3729c6c43fa6",
+              "value": {
+                "en": "Bern, Switzerland",
+                "es": "Bern, Switzerland",
+                "fr": "Bern, Switzerland"
+              }
+            },
+            {
+              "id": "f6384bb2-4106-4bfe-9cdd-3729c6c43fa7",
+              "value": {
+                "en": "Toronto, Canada",
+                "es": "Toronto, Canada",
+                "fr": "Toronto, Canada"
+              }
+            },
+            {
+              "id": "f6384bb2-4106-4bfe-9cdd-3729c6c43fa8",
+              "value": {
+                "en": "Dubai, UAE",
+                "es": "Dubai, UAE",
+                "fr": "Dubai, UAE"
+              }
+            }
+          ],
+          "asset": {
+            "suggestion": {
+              "en": "Lima",
+              "es": "es translation here...",
+              "fr": "fr translation here..."
+            },
+            "type": "image",
+            "url": "https://firebasestorage.googleapis.com/v0/b/intelligent-journal-6075f.appspot.com/o/elphie%20images%2Fclean%20swiss%20flag.jpg?alt=media&token=8a68ffb2-a0e5-4291-bf25-1d49ba9e6c54"
+          },
+          "category": {
+            "id": "b880b422-0ded-40d5-a181-c3ceb4bed656",
+            "name": {
+              "en": "landmark_and_architecture",
+              "es": "landmark_and_architecture",
+              "fr": "landmark_and_architecture"
+            },
+            "value": "LANDMARK_AND_ARCHITECTURE"
+          },
+          "complexity": {
+            "ageGroup": "6-7",
+            "gradeLevel": "2"
+          },
+          "hint": {
+            "en": "Where's your elf hiding?",
+            "es": "Dónde se esconde tu elfo?",
+            "fr": "Où se cache ton elfe?"
+          },
+          "id": "f6384bb2-4106-4bfe-9cdd-3729c6c43f11",
+          "title": {
+            "en": "Where's your elf hiding?",
+            "es": "Dónde se esconde tu elfo?",
+            "fr": "Où se cache ton elfe?"
+          },
+          "type": "SINGLE_CHOICE"
+        }
+      ]
+    }
+  ]
+}
+}
